@@ -1,0 +1,2818 @@
+{
+
+  "name":"Export",
+
+  "date":"20160609",
+
+  "maps":[
+
+    {
+
+      "name":"House 1",
+
+      "floors":[
+
+        {
+
+          "name":"Floor 1",
+
+          "level":0,
+
+          "visible":0,
+
+          "height":300,
+
+          "segments":[
+
+            {
+
+              "segment_type":0,
+
+              "visible":0,
+
+              "coords":[
+
+                {
+
+                  "x":18.99999960899353,
+
+                  "y":7.9999986362457278,
+
+                  "obj_type":4
+
+                },
+
+                {
+
+                  "x":18.99999960899353,
+
+                  "y":32.999997558593755,
+
+                  "obj_type":4
+
+                }
+
+              ],
+
+              "items":[
+
+
+              ],
+
+              "obj_type":3
+
+            },
+
+            {
+
+              "segment_type":0,
+
+              "visible":0,
+
+              "coords":[
+
+                {
+
+                  "x":18.99999960899353,
+
+                  "y":32.999997558593755,
+
+                  "obj_type":4
+
+                },
+
+                {
+
+                  "x":36.999998779296874,
+
+                  "y":32.999997558593755,
+
+                  "obj_type":4
+
+                }
+
+              ],
+
+              "items":[
+
+
+              ],
+
+              "obj_type":3
+
+            },
+
+            {
+
+              "segment_type":0,
+
+              "visible":0,
+
+              "coords":[
+
+                {
+
+                  "x":36.999998779296874,
+
+                  "y":32.999997558593755,
+
+                  "obj_type":4
+
+                },
+
+                {
+
+                  "x":36.999998779296874,
+
+                  "y":7.9999986362457278,
+
+                  "obj_type":4
+
+                }
+
+              ],
+
+              "items":[
+
+
+              ],
+
+              "obj_type":3
+
+            },
+
+            {
+
+              "segment_type":0,
+
+              "visible":0,
+
+              "coords":[
+
+                {
+
+                  "x":36.999998779296874,
+
+                  "y":7.9999986362457278,
+
+                  "obj_type":4
+
+                },
+
+                {
+
+                  "x":18.99999960899353,
+
+                  "y":7.9999986362457278,
+
+                  "obj_type":4
+
+                }
+
+              ],
+
+              "items":[
+
+
+              ],
+
+              "obj_type":3
+
+            }
+
+          ],
+
+          "surfaces":[
+
+            {
+
+              "surface_type":0,
+
+              "name":"Generic room 1",
+
+              "visible":1,
+
+              "segments":[
+
+                {
+
+                  "segment_type":0,
+
+                  "visible":0,
+
+                  "coords":[
+
+                    {
+
+                      "x":36.7,
+
+                      "y":9.2,
+
+                      "obj_type":4
+
+                    },
+
+                    {
+
+                      "x":36.7,
+
+                      "y":32.7,
+
+                      "obj_type":4
+
+                    }
+
+                  ],
+
+                  "items":[
+
+
+                  ],
+
+                  "obj_type":3
+
+                },
+
+                {
+
+                  "segment_type":0,
+
+                  "visible":0,
+
+                  "coords":[
+
+                    {
+
+                      "x":36.7,
+
+                      "y":32.7,
+
+                      "obj_type":4
+
+                    },
+
+                    {
+
+                      "x":20,
+
+                      "y":32.7,
+
+                      "obj_type":4
+
+                    }
+
+                  ],
+
+                  "items":[
+
+
+                  ],
+
+                  "obj_type":3
+
+                },
+
+                {
+
+                  "segment_type":0,
+
+                  "visible":0,
+
+                  "coords":[
+
+                    {
+
+                      "x":20,
+
+                      "y":32.7,
+
+                      "obj_type":4
+
+                    },
+
+                    {
+
+                      "x":20,
+
+                      "y":9.2,
+
+                      "obj_type":4
+
+                    }
+
+                  ],
+
+                  "items":[
+
+
+                  ],
+
+                  "obj_type":3
+
+                },
+
+                {
+
+                  "segment_type":0,
+
+                  "visible":0,
+
+                  "coords":[
+
+                    {
+
+                      "x":20,
+
+                      "y":9.2,
+
+                      "obj_type":4
+
+                    },
+
+                    {
+
+                      "x":36.7,
+
+                      "y":9.2,
+
+                      "obj_type":4
+
+                    }
+
+                  ],
+
+                  "items":[
+
+
+                  ],
+
+                  "obj_type":3
+
+                }
+
+              ],
+
+              "items":[
+
+                {
+
+                  "item_type":30,
+
+                  "name":"Thermostat 3",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":17.1219512195122,
+
+                    "y":29.443792257224423,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":90,
+
+                  "name":"Other 2",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":30.2439024390244,
+
+                    "y":21.485821605649321,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":20,
+
+                  "name":"Light 9",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":25.804878048780484,
+
+                    "y":26.955987379175639,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":20,
+
+                  "name":"Light 11",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":12.829268292682921,
+
+                    "y":29.6876946962488,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":20,
+
+                  "name":"Light 10",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":15.219512195121961,
+
+                    "y":20.858426403565883,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":90,
+
+                  "name":"Other 3",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":27.512195121951219,
+
+                    "y":21.485821605649321,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":52,
+
+                  "name":"Videocitofono 2",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":13.949999733238577,
+
+                    "y":23.199999793174118,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                }
+
+              ],
+
+              "obj_type":5
+
+            }
+
+          ],
+
+          "items":[
+
+
+          ],
+
+          "obj_type":2
+
+        },
+
+        {
+
+          "name":"Floor 2",
+
+          "level":1,
+
+          "visible":0,
+
+          "height":300,
+
+          "segments":[
+
+            {
+
+              "segment_type":0,
+
+              "visible":0,
+
+              "coords":[
+
+                {
+
+                  "x":17.00000012397766,
+
+                  "y":6.0,
+
+                  "obj_type":4
+
+                },
+
+                {
+
+                  "x":17.00000012397766,
+
+                  "y":44.0,
+
+                  "obj_type":4
+
+                }
+
+              ],
+
+              "items":[
+
+
+              ],
+
+              "obj_type":3
+
+            },
+
+            {
+
+              "segment_type":0,
+
+              "visible":0,
+
+              "coords":[
+
+                {
+
+                  "x":17.00000012397766,
+
+                  "y":44.0,
+
+                  "obj_type":4
+
+                },
+
+                {
+
+                  "x":36.0,
+
+                  "y":44.0,
+
+                  "obj_type":4
+
+                }
+
+              ],
+
+              "items":[
+
+
+              ],
+
+              "obj_type":3
+
+            },
+
+            {
+
+              "segment_type":0,
+
+              "visible":0,
+
+              "coords":[
+
+                {
+
+                  "x":36.0,
+
+                  "y":44.0,
+
+                  "obj_type":4
+
+                },
+
+                {
+
+                  "x":36.0,
+
+                  "y":6.0,
+
+                  "obj_type":4
+
+                }
+
+              ],
+
+              "items":[
+
+
+              ],
+
+              "obj_type":3
+
+            },
+
+            {
+
+              "segment_type":0,
+
+              "visible":0,
+
+              "coords":[
+
+                {
+
+                  "x":36.0,
+
+                  "y":6.0,
+
+                  "obj_type":4
+
+                },
+
+                {
+
+                  "x":17.00000012397766,
+
+                  "y":6.0,
+
+                  "obj_type":4
+
+                }
+
+              ],
+
+              "items":[
+
+
+              ],
+
+              "obj_type":3
+
+            }
+
+          ],
+
+          "surfaces":[
+
+            {
+
+              "surface_type":0,
+
+              "name":"Generic room 2",
+
+              "visible":1,
+
+              "segments":[
+
+                {
+
+                  "segment_type":0,
+
+                  "visible":0,
+
+                  "coords":[
+
+                    {
+
+                      "x":32,
+
+                      "y":9.0999996757507322,
+
+                      "obj_type":4
+
+                    },
+
+                    {
+
+                      "x":32,
+
+                      "y":28.9,
+
+                      "obj_type":4
+
+                    }
+
+                  ],
+
+                  "items":[
+
+
+                  ],
+
+                  "obj_type":3
+
+                },
+
+                {
+
+                  "segment_type":0,
+
+                  "visible":0,
+
+                  "coords":[
+
+                    {
+
+                      "x":32,
+
+                      "y":28.9,
+
+                      "obj_type":4
+
+                    },
+
+                    {
+
+                      "x":21,
+
+                      "y":28.9,
+
+                      "obj_type":4
+
+                    }
+
+                  ],
+
+                  "items":[
+
+
+                  ],
+
+                  "obj_type":3
+
+                },
+
+                {
+
+                  "segment_type":0,
+
+                  "visible":0,
+
+                  "coords":[
+
+                    {
+
+                      "x":20.100000429153443,
+
+                      "y":28.9,
+
+                      "obj_type":4
+
+                    },
+
+                    {
+
+                      "x":20.100000429153443,
+
+                      "y":9.0999996757507322,
+
+                      "obj_type":4
+
+                    }
+
+                  ],
+
+                  "items":[
+
+
+                  ],
+
+                  "obj_type":3
+
+                },
+
+                {
+
+                  "segment_type":0,
+
+                  "visible":0,
+
+                  "coords":[
+
+                    {
+
+                      "x":20.100000429153443,
+
+                      "y":9.0999996757507322,
+
+                      "obj_type":4
+
+                    },
+
+                    {
+
+                      "x":32,
+
+                      "y":9.0999996757507322,
+
+                      "obj_type":4
+
+                    }
+
+                  ],
+
+                  "items":[
+
+
+                  ],
+
+                  "obj_type":3
+
+                }
+
+              ],
+
+              "items":[
+
+                {
+
+                  "item_type":60,
+
+                  "name":"Blind 1",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":9.02439024390244,
+
+                    "y":29.955987379175639,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+
+                {
+
+                  "item_type":20,
+
+                  "name":"Light 1",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":11.136316639741519,
+
+                    "y":21.574798061389338,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":90,
+
+                  "name":"Other 1",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":12.700000064618839,
+
+                    "y":24.899999827425518,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":20,
+
+                  "name":"Light 7",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":14.04878048780488,
+
+                    "y":28.2486703060049,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":30,
+
+                  "name":"Thermostat 2",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":20.975609756097562,
+
+                    "y":27.12671908649272,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":20,
+
+                  "name":"Light 3",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":16.390243902439021,
+
+                    "y":24.102328842590282,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":20,
+
+                  "name":"Light 4",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":25.365853658536579,
+
+                    "y":21.663304452346374,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":20,
+
+                  "name":"Light 8",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":22.975609756097562,
+
+                    "y":28.736475184053678,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":20,
+
+                  "name":"Light 2",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":12.682926829268299,
+
+                    "y":23.1754995742976,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":20,
+
+                  "name":"Light 5",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":28.195121951219516,
+
+                    "y":31.1754995742976,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":60,
+
+                  "name":"Blind 3",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":28.195121951219516,
+
+                    "y":21.419402013321978,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":30,
+
+                  "name":"Thermostat 1",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":16.390243902439021,
+
+                    "y":29.907206891370762,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":60,
+
+                  "name":"Blind 2",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":28.292682926829258,
+
+                    "y":29.419402013321978,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                }
+
+              ],
+
+              "obj_type":5
+
+            },
+
+            {
+
+              "surface_type":2,
+
+              "name":"Garden",
+
+              "visible":1,
+
+              "segments":[
+
+                {
+
+                  "segment_type":0,
+
+                  "visible":0,
+
+                  "coords":[
+
+                    {
+
+                      "x":38.9,
+
+                      "y":6.1,
+
+                      "obj_type":4
+
+                    },
+
+                    {
+
+                      "x":38.9,
+
+                      "y":43.9,
+
+                      "obj_type":4
+
+                    }
+
+                  ],
+
+                  "items":[
+
+
+                  ],
+
+                  "obj_type":3
+
+                },
+
+                {
+
+                  "segment_type":0,
+
+                  "visible":0,
+
+                  "coords":[
+
+                    {
+
+                      "x":38.9,
+
+                      "y":43.9,
+
+                      "obj_type":4
+
+                    },
+
+                    {
+
+                      "x":17.1,
+
+                      "y":43.9,
+
+                      "obj_type":4
+
+                    }
+
+                  ],
+
+                  "items":[
+
+
+                  ],
+
+                  "obj_type":3
+
+                },
+
+                {
+
+                  "segment_type":0,
+
+                  "visible":0,
+
+                  "coords":[
+
+                    {
+
+                      "x":17.1,
+
+                      "y":43.9,
+
+                      "obj_type":4
+
+                    },
+
+                    {
+
+                      "x":17.1,
+
+                      "y":6.1,
+
+                      "obj_type":4
+
+                    }
+
+                  ],
+
+                  "items":[
+
+
+                  ],
+
+                  "obj_type":3
+
+                },
+
+                {
+
+                  "segment_type":0,
+
+                  "visible":0,
+
+                  "coords":[
+
+                    {
+
+                      "x":17.1,
+
+                      "y":6.1,
+
+                      "obj_type":4
+
+                    },
+
+                    {
+
+                      "x":38.9,
+
+                      "y":6.1,
+
+                      "obj_type":4
+
+                    }
+
+                  ],
+
+                  "items":[
+
+
+                  ],
+
+                  "obj_type":3
+
+                }
+
+              ],
+
+              "items":[
+			  
+
+                {
+
+                  "item_type":70,
+
+                  "name":"Telecamera 5",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":7.4663265130453249,
+
+                    "y":34.489209776776846,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":80,
+
+                  "name":"Irrigation 4",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":11.208261996916294,
+
+                    "y":34.231145260647807,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":70,
+
+                  "name":"Telecamera 1",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":21.208261996916296,
+
+                    "y":34.682758163873615,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":80,
+
+                  "name":"Irrigation 3",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":25.466326513045328,
+
+                    "y":34.360177518712327,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":70,
+
+                  "name":"Telecamera 4",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":30.950197480787256,
+
+                    "y":28.295661389680067,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+              
+
+                {
+
+                  "item_type":20,
+
+                  "name":"Light 20",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":39.1153150242326,
+
+                    "y":27.229079159935377,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                }
+
+              
+				,
+                {
+
+                  "item_type":20,
+
+                  "name":"Light 19",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":21.890289646685879,
+
+                    "y":17.752380952380967,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":20,
+
+                  "name":"Light 21",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":38.937908694304923,
+
+                    "y":18.609523809523825,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":52,
+
+                  "name":"Videocitofono 4",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":6.1760039324001648,
+
+                    "y":23.561904761904781,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":70,
+
+                  "name":"Teelecamera 3",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":7.8552180936995235,
+
+                    "y":20.455250403877223,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":52,
+
+                  "name":"Videocitofono 3",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":42.842670599066821,
+
+                    "y":22.32380952380954,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":80,
+
+                  "name":"Irrigation 2",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":32.937908694304923,
+
+                    "y":19.942857142857157,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                }
+
+              ],
+
+              "obj_type":5
+
+            }
+
+          ],
+
+          "items":[
+
+
+          ],
+
+          "obj_type":2
+
+        },
+
+        {
+
+          "name":"Floor 3",
+
+          "level":2,
+
+          "visible":0,
+
+          "height":300,
+
+          "segments":[
+
+
+{
+              "segment_type":0,
+              "visible":0,
+              "coords":[
+                {
+                  "x":20.000000047683713,
+                  "y":10,
+                  "obj_type":4
+                },
+                {
+                  "x":20.000000047683713,
+                  "y":12.5,
+                  "obj_type":4
+                }
+              ],
+              "items":[
+              ],
+              "obj_type":3
+            },{
+              "segment_type":0,
+              "visible":0,
+              "coords":[
+                {
+                  "x":20.000000047683713,
+                  "y":12.5,
+                  "obj_type":4
+                },
+                {
+                  "x":22.000000047683713,
+                  "y":12.5,
+                  "obj_type":4
+                }
+              ],
+              "items":[
+              ],
+              "obj_type":3
+            },{
+              "segment_type":0,
+              "visible":0,
+              "coords":[
+                {
+                  "x":22.000000047683713,
+                  "y":12.5,
+                  "obj_type":4
+                },
+                {
+                  "x":22.000000047683713,
+                  "y":21,
+                  "obj_type":4
+                }
+              ],
+              "items":[
+              ],
+              "obj_type":3
+            },{
+              "segment_type":0,
+              "visible":0,
+              "coords":[
+                {
+                  "x":22.000000047683713,
+                  "y":21,
+                  "obj_type":4
+                },
+                {
+                  "x":20.000000047683713,
+                  "y":21,
+                  "obj_type":4
+                }
+              ],
+              "items":[
+              ],
+              "obj_type":3
+            },
+
+
+            {
+              "segment_type":0,
+              "visible":0,
+              "coords":[
+                {
+                  "x":20.000000047683713,
+                  "y":21,
+                  "obj_type":4
+                },
+                {
+                  "x":20.000000047683713,
+                  "y":31.0,
+                  "obj_type":4
+                }
+              ],
+              "items":[
+              ],
+              "obj_type":3
+            },
+            {
+              "segment_type":0,
+              "visible":0,
+              "coords":[
+                {
+                  "x":20.000000047683713,
+                  "y":31.0,
+                  "obj_type":4
+                },
+                {
+                  "x":32.0,
+                  "y":31.0,
+                  "obj_type":4
+                }
+              ],
+              "items":[
+              ],
+              "obj_type":3
+            },
+            {
+              "segment_type":0,
+              "visible":0,
+              "coords":[
+                {
+                  "x":32.0,
+                  "y":31.0,
+                  "obj_type":4
+                },
+                {
+                  "x":32.0,
+                  "y":10.000001239776612,
+                  "obj_type":4
+                }
+              ],
+              "items":[
+              ],
+              "obj_type":3
+            },
+            {
+              "segment_type":0,
+              "visible":0,
+              "coords":[
+                {
+                  "x":32.0,
+                  "y":10.000001239776612,
+                  "obj_type":4
+                },
+                {
+                  "x":20.000000047683713,
+                  "y":10.000001239776612,
+                  "obj_type":4
+                }
+              ],
+              "items":[
+              ],
+              "obj_type":3
+            }
+
+          ],
+
+          "surfaces":[
+
+            {
+
+              "surface_type":0,
+
+              "name":"Generic room 3",
+
+              "visible":1,
+
+              "segments":[
+
+
+{
+              "segment_type":0,
+              "visible":0,
+              "coords":[
+                {
+                  "x":20.000000047683713,
+                  "y":10.2,
+                  "obj_type":4
+                },
+                {
+                  "x":20.000000047683713,
+                  "y":12.5,
+                  "obj_type":4
+                }
+              ],
+              "items":[
+              ],
+              "obj_type":3
+            },{
+              "segment_type":0,
+              "visible":0,
+              "coords":[
+                {
+                  "x":20.000000047683713,
+                  "y":12.5,
+                  "obj_type":4
+                },
+                {
+                  "x":22.000000047683713,
+                  "y":12.5,
+                  "obj_type":4
+                }
+              ],
+              "items":[
+              ],
+              "obj_type":3
+            },{
+              "segment_type":0,
+              "visible":0,
+              "coords":[
+                {
+                  "x":22.000000047683713,
+                  "y":12.5,
+                  "obj_type":4
+                },
+                {
+                  "x":22.000000047683713,
+                  "y":21,
+                  "obj_type":4
+                }
+              ],
+              "items":[
+              ],
+              "obj_type":3
+            },{
+              "segment_type":0,
+              "visible":0,
+              "coords":[
+                {
+                  "x":22.000000047683713,
+                  "y":21,
+                  "obj_type":4
+                },
+                {
+                  "x":20.000000047683713,
+                  "y":21,
+                  "obj_type":4
+                }
+              ],
+              "items":[
+              ],
+              "obj_type":3
+            },
+
+
+            {
+              "segment_type":0,
+              "visible":0,
+              "coords":[
+                {
+                  "x":20.000000047683713,
+                  "y":21,
+                  "obj_type":4
+                },
+                {
+                  "x":20.000000047683713,
+                  "y":30,
+                  "obj_type":4
+                }
+              ],
+              "items":[
+              ],
+              "obj_type":3
+            },
+            {
+              "segment_type":0,
+              "visible":0,
+              "coords":[
+                {
+                  "x":20.000000047683713,
+                  "y":30,
+                  "obj_type":4
+                },
+                {
+                  "x":32.0,
+                  "y":30,
+                  "obj_type":4
+                }
+              ],
+              "items":[
+              ],
+              "obj_type":3
+            },
+            {
+              "segment_type":0,
+              "visible":0,
+              "coords":[
+                {
+                  "x":32.0,
+                  "y":30,
+                  "obj_type":4
+                },
+                {
+                  "x":32.0,
+                  "y":10.2,
+                  "obj_type":4
+                }
+              ],
+              "items":[
+              ],
+              "obj_type":3
+            },
+            {
+              "segment_type":0,
+              "visible":0,
+              "coords":[
+                {
+                  "x":32.0,
+                  "y":10.2,
+                  "obj_type":4
+                },
+                {
+                  "x":20.000000047683713,
+                  "y":10.2,
+                  "obj_type":4
+                }
+              ],
+              "items":[
+              ],
+              "obj_type":3
+            }
+
+          ],
+
+              "items":[
+
+                {
+
+                  "item_type":30,
+
+                  "name":"Thermostat 4",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":28.463414634146339,
+
+                    "y":22.679598337256479,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":60,
+
+                  "name":"Blind 5",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":10.121951219512196,
+
+                    "y":29.378211048229577,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":20,
+
+                  "name":"Light 13",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":26.1219512195122,
+
+                    "y":26.143012971402822,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":52,
+
+                  "name":"Videocitofono 1",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":18.809983844911159,
+
+                    "y":25.507883683360259,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+        
+
+                {
+
+                  "item_type":20,
+
+                  "name":"Light 15",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":26.024390243902438,
+
+                    "y":21.167403215305253,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":30,
+
+                  "name":"Thermostat 5",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":25.439024390243905,
+
+                    "y":28.728378825061341,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":30,
+
+                  "name":"Thermostat 6",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":16.609756097560979,
+
+                    "y":28.84162568237592,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":20,
+
+                  "name":"Light 18",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":13.780487804878039,
+
+                    "y":24.289354434817461,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":30,
+
+                  "name":"Thermostat 7",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":16.658536585365859,
+
+                    "y":23.313744678719882,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+    
+
+
+                {
+
+                  "item_type":60,
+
+                  "name":"Blind 7",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":10.121951219512196,
+
+                    "y":23.036747633595443,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":20,
+
+                  "name":"Light 14",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":27.829268292682919,
+
+                    "y":30.972281264085741,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":20,
+
+                  "name":"Light 16",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":14.658536585365859,
+
+                    "y":31.183089097010079,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                },
+
+                {
+
+                  "item_type":20,
+
+                  "name":"Light 17",
+
+                  "object_id":0,
+
+                  "visible":1,
+
+                  "position":{
+
+                    "x":13.829268292682921,
+
+                    "y":29.67089397505886,
+
+                    "obj_type":4
+
+                  },
+
+                  "actions":[
+
+
+                  ],
+
+                  "states":[
+
+
+                  ],
+
+                  "obj_type":6
+
+                }
+
+              ],
+
+              "obj_type":5
+
+            }
+
+          ],
+
+          "items":[
+
+
+          ],
+
+          "obj_type":2
+
+        }
+
+      ],
+
+      "items":[
+
+
+      ],
+
+      "obj_type":1
+
+    }
+
+  ],
+
+  "obj_type":0
+
+}
