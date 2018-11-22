@@ -1410,21 +1410,53 @@
                   "obj_type": 3
                 }
               ],
-              "items": [
+                            "items": [
                 {
                   "item_type": 20,
-                  "name": "Light 6",
+                  "name": "Light 5",
                   "object_id": 0,
                   "visible": 1,
                   "position": {
-                    "x": 19.640000003838182,
-                    "y": 10.640000001919079,
+                    "x": 7.700000053398144,
+                    "y": 7.700000610351562,
                     "rotation": 0,
                     "obj_type": 4
                   },
                   "actions": [],
                   "states": [],
                   "rotation": 0,
+                  "obj_type": 6
+                },
+                {
+                  "item_type": 111,
+                  "name": "Lavandino",
+                  "object_id": 0,
+                  "visible": 1,
+                  "position": {
+                    "x": 6.532871287128715,
+                    "y": 14.100990099009906,
+                    "rotation": 0,
+                    "obj_type": 4
+                  },
+                  "actions": [],
+                  "states": [],
+                  "rotation": -180,
+                  "obj_type": 6
+                },
+                {
+                  "item_type": 112,
+                  "name": "Vasca da bagno",
+                  "object_id": 0,
+                  "visible": 1,
+                  "position": {
+                    "x": 7.146732673267329,
+                    "y": 2.893069306930694,
+                    "rotation": 0,
+                    "obj_type": 4
+                  },
+                  "actions": [],
+                  "states": [],
+                  "rotation": 90,
                   "obj_type": 6
                 }
               ],
