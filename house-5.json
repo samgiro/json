@@ -1,6 +1,6 @@
 {
   "name": "Export",
-  "date": "20171017",
+  "date": "20170522",
   "maps": [
     {
       "name": "House 1",
@@ -9,7 +9,7 @@
           "name": "Floor 1",
           "level": 0,
           "visible": 0,
-          "height": 400,
+          "height": 300,
           "buildings": [
             {
               "segments": [
@@ -18,97 +18,14 @@
                   "visible": 0,
                   "coords": [
                     {
-                      "x": 8,
-                      "y": 23,
+                      "x": 1,
+                      "y": 16,
                       "rotation": 0,
                       "obj_type": 4
                     },
                     {
-                      "x": 8,
-                      "y": 4,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 9.012207882828966,
-                      "item_type": 30,
-                      "name": "Porta",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 8,
-                      "y": 4,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 24,
-                      "y": 4,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 2.824811109086845,
-                      "item_type": 35,
-                      "name": "Finestra",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    },
-                    {
-                      "size": 100,
-                      "corner_distance": 11.640110854279868,
-                      "item_type": 35,
-                      "name": "Finestra",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 24,
-                      "y": 4,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 24,
-                      "y": 23,
+                      "x": 1,
+                      "y": 1,
                       "rotation": 0,
                       "obj_type": 4
                     }
@@ -122,46 +39,61 @@
                   "visible": 0,
                   "coords": [
                     {
-                      "x": 24,
-                      "y": 23,
+                      "x": 1,
+                      "y": 1,
                       "rotation": 0,
                       "obj_type": 4
                     },
                     {
-                      "x": 8,
-                      "y": 23,
+                      "x": 15,
+                      "y": 1,
                       "rotation": 0,
                       "obj_type": 4
                     }
                   ],
-                  "items": [
+                  "items": [],
+                  "rotation": 0,
+                  "obj_type": 3
+                },
+                {
+                  "segment_type": 0,
+                  "visible": 0,
+                  "coords": [
                     {
-                      "size": 100,
-                      "corner_distance": 3.2999600634144564,
-                      "item_type": 35,
-                      "name": "Finestra",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
+                      "x": 15,
+                      "y": 1,
                       "rotation": 0,
-                      "obj_type": 6
+                      "obj_type": 4
                     },
                     {
-                      "size": 100,
-                      "corner_distance": 11.178359211433962,
-                      "item_type": 35,
-                      "name": "Finestra",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
+                      "x": 15,
+                      "y": 16,
                       "rotation": 0,
-                      "obj_type": 6
+                      "obj_type": 4
                     }
                   ],
+                  "items": [],
+                  "rotation": 0,
+                  "obj_type": 3
+                },
+                {
+                  "segment_type": 0,
+                  "visible": 0,
+                  "coords": [
+                    {
+                      "x": 15,
+                      "y": 16,
+                      "rotation": 0,
+                      "obj_type": 4
+                    },
+                    {
+                      "x": 1,
+                      "y": 16,
+                      "rotation": 0,
+                      "obj_type": 4
+                    }
+                  ],
+                  "items": [],
                   "rotation": 0,
                   "obj_type": 3
                 }
@@ -171,7 +103,7 @@
           "surfaces": [
             {
               "surface_type": 0,
-              "name": "Living room 1",
+              "name": "Generic room 1",
               "visible": 1,
               "segments": [
                 {
@@ -179,14 +111,14 @@
                   "visible": 0,
                   "coords": [
                     {
-                      "x": 17.000000610351563,
-                      "y": 3.9999998318389953,
+                      "x": 10,
+                      "y": 0.9999999069570004,
                       "rotation": 0,
                       "obj_type": 4
                     },
                     {
-                      "x": 17.000000610351563,
-                      "y": 9.999999389648437,
+                      "x": 10,
+                      "y": 8,
                       "rotation": 0,
                       "obj_type": 4
                     }
@@ -194,9 +126,9 @@
                   "items": [
                     {
                       "size": 100,
-                      "corner_distance": 1.8226843172624219,
+                      "corner_distance": 3.681386231656862,
                       "item_type": 30,
-                      "name": "Porta",
+                      "name": "Porta Interna",
                       "object_id": 0,
                       "visible": 1,
                       "position": null,
@@ -214,14 +146,14 @@
                   "visible": 0,
                   "coords": [
                     {
-                      "x": 17.000000610351563,
-                      "y": 9.999999389648437,
+                      "x": 10,
+                      "y": 8,
                       "rotation": 0,
                       "obj_type": 4
                     },
                     {
-                      "x": 8.000000402331388,
-                      "y": 9.999999389648437,
+                      "x": 0.9999999664723873,
+                      "y": 8,
                       "rotation": 0,
                       "obj_type": 4
                     }
@@ -229,9 +161,9 @@
                   "items": [
                     {
                       "size": 100,
-                      "corner_distance": 4.0947051276023645,
+                      "corner_distance": 5.057425690420187,
                       "item_type": 30,
-                      "name": "Porta",
+                      "name": "Porta Interna",
                       "object_id": 0,
                       "visible": 1,
                       "position": null,
@@ -249,14 +181,97 @@
                   "visible": 0,
                   "coords": [
                     {
-                      "x": 8.000000402331388,
-                      "y": 9.999999389648437,
+                      "x": 0.9999999664723873,
+                      "y": 8,
                       "rotation": 0,
                       "obj_type": 4
                     },
                     {
-                      "x": 8.000000402331388,
-                      "y": 3.9999998318389953,
+                      "x": 0.9999999664723873,
+                      "y": 0.9999999069570004,
+                      "rotation": 0,
+                      "obj_type": 4
+                    }
+                  ],
+                  "items": [
+                    {
+                      "size": 100,
+                      "corner_distance": 3.5463366336633646,
+                      "item_type": 0,
+                      "name": "Finestra apertura a visiera",
+                      "object_id": 0,
+                      "visible": 1,
+                      "position": null,
+                      "actions": [],
+                      "states": [],
+                      "rotation": 0,
+                      "obj_type": 6
+                    }
+                  ],
+                  "rotation": 0,
+                  "obj_type": 3
+                },
+                {
+                  "segment_type": 0,
+                  "visible": 0,
+                  "coords": [
+                    {
+                      "x": 0.9999999664723873,
+                      "y": 0.9999999069570004,
+                      "rotation": 0,
+                      "obj_type": 4
+                    },
+                    {
+                      "x": 10,
+                      "y": 0.9999999069570004,
+                      "rotation": 0,
+                      "obj_type": 4
+                    }
+                  ],
+                  "items": [],
+                  "rotation": 0,
+                  "obj_type": 3
+                }
+              ],
+              "items": [
+                {
+                  "item_type": 20,
+                  "name": "Light 1",
+                  "object_id": 0,
+                  "visible": 1,
+                  "position": {
+                    "x": 4.2000000465215,
+                    "y": 5.2000000167638065,
+                    "rotation": 0,
+                    "obj_type": 4
+                  },
+                  "actions": [],
+                  "states": [],
+                  "rotation": 0,
+                  "obj_type": 6
+                }
+              ],
+              "rotation": 0,
+              "obj_type": 5
+            },
+            {
+              "surface_type": 0,
+              "name": "Dining room 1",
+              "visible": 1,
+              "segments": [
+                {
+                  "segment_type": 0,
+                  "visible": 0,
+                  "coords": [
+                    {
+                      "x": 15,
+                      "y": 1,
+                      "rotation": 0,
+                      "obj_type": 4
+                    },
+                    {
+                      "x": 15,
+                      "y": 8,
                       "rotation": 0,
                       "obj_type": 4
                     }
@@ -270,14 +285,35 @@
                   "visible": 0,
                   "coords": [
                     {
-                      "x": 8.000000402331388,
-                      "y": 3.9999998318389953,
+                      "x": 15,
+                      "y": 8,
                       "rotation": 0,
                       "obj_type": 4
                     },
                     {
-                      "x": 17.000000610351563,
-                      "y": 3.9999998318389953,
+                      "x": 9.999999861232936,
+                      "y": 8,
+                      "rotation": 0,
+                      "obj_type": 4
+                    }
+                  ],
+                  "items": [],
+                  "rotation": 0,
+                  "obj_type": 3
+                },
+                {
+                  "segment_type": 0,
+                  "visible": 0,
+                  "coords": [
+                    {
+                      "x": 9.999999861232936,
+                      "y": 8,
+                      "rotation": 0,
+                      "obj_type": 4
+                    },
+                    {
+                      "x": 9.999999861232936,
+                      "y": 1,
                       "rotation": 0,
                       "obj_type": 4
                     }
@@ -285,9 +321,155 @@
                   "items": [
                     {
                       "size": 100,
-                      "corner_distance": 2.8248111090868453,
-                      "item_type": 35,
-                      "name": "Finestra",
+                      "corner_distance": 2.3186138613861376,
+                      "item_type": 30,
+                      "name": "Porta Interna",
+                      "object_id": 0,
+                      "visible": 1,
+                      "position": null,
+                      "actions": [],
+                      "states": [],
+                      "rotation": 0,
+                      "obj_type": 6
+                    }
+                  ],
+                  "rotation": 0,
+                  "obj_type": 3
+                },
+                {
+                  "segment_type": 0,
+                  "visible": 0,
+                  "coords": [
+                    {
+                      "x": 9.999999861232936,
+                      "y": 1,
+                      "rotation": 0,
+                      "obj_type": 4
+                    },
+                    {
+                      "x": 15,
+                      "y": 1,
+                      "rotation": 0,
+                      "obj_type": 4
+                    }
+                  ],
+                  "items": [],
+                  "rotation": 0,
+                  "obj_type": 3
+                }
+              ],
+              "items": [
+                {
+                  "item_type": 20,
+                  "name": "Light 2",
+                  "object_id": 0,
+                  "visible": 1,
+                  "position": {
+                    "x": 4.2,
+                    "y": 12.200000069383531,
+                    "rotation": 0,
+                    "obj_type": 4
+                  },
+                  "actions": [],
+                  "states": [],
+                  "rotation": 0,
+                  "obj_type": 6
+                }
+              ],
+              "rotation": 0,
+              "obj_type": 5
+            },
+            {
+              "surface_type": 0,
+              "name": "TV room 1",
+              "visible": 1,
+              "segments": [
+                {
+                  "segment_type": 0,
+                  "visible": 0,
+                  "coords": [
+                    {
+                      "x": 15.000001220703124,
+                      "y": 7.999999901108058,
+                      "rotation": 0,
+                      "obj_type": 4
+                    },
+                    {
+                      "x": 15.000001220703124,
+                      "y": 15.999999389648437,
+                      "rotation": 0,
+                      "obj_type": 4
+                    }
+                  ],
+                  "items": [],
+                  "rotation": 0,
+                  "obj_type": 3
+                },
+                {
+                  "segment_type": 0,
+                  "visible": 0,
+                  "coords": [
+                    {
+                      "x": 15.000001220703124,
+                      "y": 15.999999389648437,
+                      "rotation": 0,
+                      "obj_type": 4
+                    },
+                    {
+                      "x": 0.9999999478459313,
+                      "y": 15.999999389648437,
+                      "rotation": 0,
+                      "obj_type": 4
+                    }
+                  ],
+                  "items": [],
+                  "rotation": 0,
+                  "obj_type": 3
+                },
+                {
+                  "segment_type": 0,
+                  "visible": 0,
+                  "coords": [
+                    {
+                      "x": 0.9999999478459313,
+                      "y": 15.999999389648437,
+                      "rotation": 0,
+                      "obj_type": 4
+                    },
+                    {
+                      "x": 0.9999999478459313,
+                      "y": 7.999999901108058,
+                      "rotation": 0,
+                      "obj_type": 4
+                    }
+                  ],
+                  "items": [],
+                  "rotation": 0,
+                  "obj_type": 3
+                },
+                {
+                  "segment_type": 0,
+                  "visible": 0,
+                  "coords": [
+                    {
+                      "x": 0.9999999478459313,
+                      "y": 7.999999901108058,
+                      "rotation": 0,
+                      "obj_type": 4
+                    },
+                    {
+                      "x": 15.000001220703124,
+                      "y": 7.999999901108058,
+                      "rotation": 0,
+                      "obj_type": 4
+                    }
+                  ],
+                  "items": [
+                    {
+                      "size": 100,
+                      "corner_distance": 2.9425743095798125,
+                      "item_type": 30,
+                      "name": "Porta Interna",
                       "object_id": 0,
                       "visible": 1,
                       "position": null,
@@ -308,8 +490,8 @@
                   "object_id": 0,
                   "visible": 1,
                   "position": {
-                    "x": 8.598883138719273,
-                    "y": 8.943721992300157,
+                    "x": 10.366666496180125,
+                    "y": 7.700000636428597,
                     "rotation": 0,
                     "obj_type": 4
                   },
@@ -320,12 +502,12 @@
                 },
                 {
                   "item_type": 20,
-                  "name": "Light 1",
+                  "name": "Light 3",
                   "object_id": 0,
                   "visible": 1,
                   "position": {
-                    "x": 4.920837277468415,
-                    "y": 15.229735611996334,
+                    "x": 13.03333299236025,
+                    "y": 7.700000636428597,
                     "rotation": 0,
                     "obj_type": 4
                   },
@@ -337,10 +519,153 @@
               ],
               "rotation": 0,
               "obj_type": 5
-            },
+            }
+          ],
+          "items": [],
+          "rotation": 0,
+          "obj_type": 2
+        },
+        {
+          "name": "Floor 2",
+          "level": 1,
+          "visible": 0,
+          "height": 300,
+          "buildings": [
+            {
+              "segments": [
+                {
+                  "segment_type": 0,
+                  "visible": 0,
+                  "coords": [
+                    {
+                      "x": 1,
+                      "y": 16,
+                      "rotation": 0,
+                      "obj_type": 4
+                    },
+                    {
+                      "x": 1,
+                      "y": 1,
+                      "rotation": 0,
+                      "obj_type": 4
+                    }
+                  ],
+                  "items": [],
+                  "rotation": 0,
+                  "obj_type": 3
+                },
+                {
+                  "segment_type": 0,
+                  "visible": 0,
+                  "coords": [
+                    {
+                      "x": 1,
+                      "y": 1,
+                      "rotation": 0,
+                      "obj_type": 4
+                    },
+                    {
+                      "x": 10,
+                      "y": 1,
+                      "rotation": 0,
+                      "obj_type": 4
+                    }
+                  ],
+                  "items": [],
+                  "rotation": 0,
+                  "obj_type": 3
+                },
+                {
+                  "segment_type": 0,
+                  "visible": 0,
+                  "coords": [
+                    {
+                      "x": 10,
+                      "y": 1,
+                      "rotation": 0,
+                      "obj_type": 4
+                    },
+                    {
+                      "x": 10,
+                      "y": 5,
+                      "rotation": 0,
+                      "obj_type": 4
+                    }
+                  ],
+                  "items": [],
+                  "rotation": 0,
+                  "obj_type": 3
+                },
+                {
+                  "segment_type": 0,
+                  "visible": 0,
+                  "coords": [
+                    {
+                      "x": 10,
+                      "y": 5,
+                      "rotation": 0,
+                      "obj_type": 4
+                    },
+                    {
+                      "x": 15,
+                      "y": 5,
+                      "rotation": 0,
+                      "obj_type": 4
+                    }
+                  ],
+                  "items": [],
+                  "rotation": 0,
+                  "obj_type": 3
+                },
+                {
+                  "segment_type": 0,
+                  "visible": 0,
+                  "coords": [
+                    {
+                      "x": 15,
+                      "y": 5,
+                      "rotation": 0,
+                      "obj_type": 4
+                    },
+                    {
+                      "x": 15,
+                      "y": 16,
+                      "rotation": 0,
+                      "obj_type": 4
+                    }
+                  ],
+                  "items": [],
+                  "rotation": 0,
+                  "obj_type": 3
+                },
+                {
+                  "segment_type": 0,
+                  "visible": 0,
+                  "coords": [
+                    {
+                      "x": 15,
+                      "y": 16,
+                      "rotation": 0,
+                      "obj_type": 4
+                    },
+                    {
+                      "x": 1,
+                      "y": 16,
+                      "rotation": 0,
+                      "obj_type": 4
+                    }
+                  ],
+                  "items": [],
+                  "rotation": 0,
+                  "obj_type": 3
+                }
+              ]
+            }
+          ],
+          "surfaces": [
             {
               "surface_type": 0,
-              "name": "Kitchen 1",
+              "name": "Bedroom 1",
               "visible": 1,
               "segments": [
                 {
@@ -348,33 +673,19 @@
                   "visible": 0,
                   "coords": [
                     {
-                      "x": 17,
-                      "y": 9.999999717221671,
+                      "x": 10,
+                      "y": 0.9999999015778394,
                       "rotation": 0,
                       "obj_type": 4
                     },
                     {
-                      "x": 17,
-                      "y": 16.999999389648437,
+                      "x": 10,
+                      "y": 4.9999996948242185,
                       "rotation": 0,
                       "obj_type": 4
                     }
                   ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 2.2483488185103937,
-                      "item_type": 30,
-                      "name": "Porta",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
+                  "items": [],
                   "rotation": 0,
                   "obj_type": 3
                 },
@@ -383,33 +694,19 @@
                   "visible": 0,
                   "coords": [
                     {
-                      "x": 17,
-                      "y": 16.999999389648437,
+                      "x": 10,
+                      "y": 4.9999996948242185,
                       "rotation": 0,
                       "obj_type": 4
                     },
                     {
-                      "x": 7.999999929520059,
-                      "y": 16.999999389648437,
+                      "x": 1,
+                      "y": 4.9999996948242185,
                       "rotation": 0,
                       "obj_type": 4
                     }
                   ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 4.220904291493429,
-                      "item_type": 30,
-                      "name": "Porta",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
+                  "items": [],
                   "rotation": 0,
                   "obj_type": 3
                 },
@@ -418,33 +715,19 @@
                   "visible": 0,
                   "coords": [
                     {
-                      "x": 7.999999929520059,
-                      "y": 16.999999389648437,
+                      "x": 1,
+                      "y": 4.9999996948242185,
                       "rotation": 0,
                       "obj_type": 4
                     },
                     {
-                      "x": 7.999999929520059,
-                      "y": 9.999999717221671,
+                      "x": 1,
+                      "y": 0.9999999015778394,
                       "rotation": 0,
                       "obj_type": 4
                     }
                   ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 3.012207882828966,
-                      "item_type": 30,
-                      "name": "Porta",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
+                  "items": [],
                   "rotation": 0,
                   "obj_type": 3
                 },
@@ -453,33 +736,19 @@
                   "visible": 0,
                   "coords": [
                     {
-                      "x": 7.999999929520059,
-                      "y": 9.999999717221671,
+                      "x": 1,
+                      "y": 0.9999999015778394,
                       "rotation": 0,
                       "obj_type": 4
                     },
                     {
-                      "x": 17,
-                      "y": 9.999999717221671,
+                      "x": 10,
+                      "y": 0.9999999015778394,
                       "rotation": 0,
                       "obj_type": 4
                     }
                   ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 3.9052949428775876,
-                      "item_type": 30,
-                      "name": "Porta",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
+                  "items": [],
                   "rotation": 0,
                   "obj_type": 3
                 }
@@ -487,12 +756,12 @@
               "items": [
                 {
                   "item_type": 20,
-                  "name": "Light 5",
+                  "name": "Light 4",
                   "object_id": 0,
                   "visible": 1,
                   "position": {
-                    "x": 13.13999983621338,
-                    "y": 12.14000003523998,
+                    "x": 2.6999998966231895,
+                    "y": 5.2,
                     "rotation": 0,
                     "obj_type": 4
                   },
@@ -515,14 +784,14 @@
                   "visible": 0,
                   "coords": [
                     {
-                      "x": 24,
-                      "y": 4.0000000049670525,
+                      "x": 15.000001220703124,
+                      "y": 4.999999893203713,
                       "rotation": 0,
                       "obj_type": 4
                     },
                     {
-                      "x": 24,
-                      "y": 8,
+                      "x": 15.000001220703124,
+                      "y": 11,
                       "rotation": 0,
                       "obj_type": 4
                     }
@@ -536,14 +805,14 @@
                   "visible": 0,
                   "coords": [
                     {
-                      "x": 24,
-                      "y": 8,
+                      "x": 15.000001220703124,
+                      "y": 11,
                       "rotation": 0,
                       "obj_type": 4
                     },
                     {
-                      "x": 17,
-                      "y": 8,
+                      "x": 1,
+                      "y": 11,
                       "rotation": 0,
                       "obj_type": 4
                     }
@@ -557,162 +826,14 @@
                   "visible": 0,
                   "coords": [
                     {
-                      "x": 17,
-                      "y": 8,
+                      "x": 1,
+                      "y": 11,
                       "rotation": 0,
                       "obj_type": 4
                     },
                     {
-                      "x": 17,
-                      "y": 4.0000000049670525,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 1.1773158508986847,
-                      "item_type": 30,
-                      "name": "Porta",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 17,
-                      "y": 4.0000000049670525,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 24,
-                      "y": 4.0000000049670525,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 2.6401108542798695,
-                      "item_type": 35,
-                      "name": "Finestra",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
-                  "rotation": 0,
-                  "obj_type": 3
-                }
-              ],
-              "items": [
-                {
-                  "item_type": 21,
-                  "name": "Thermostat 2",
-                  "object_id": 0,
-                  "visible": 1,
-                  "position": {
-                    "x": 6.706201427319039,
-                    "y": 22.856836394953433,
-                    "rotation": 0,
-                    "obj_type": 4
-                  },
-                  "actions": [],
-                  "states": [],
-                  "rotation": 0,
-                  "obj_type": 6
-                },
-                {
-                  "item_type": 20,
-                  "name": "Light 2",
-                  "object_id": 0,
-                  "visible": 1,
-                  "position": {
-                    "x": 5.87894546332879,
-                    "y": 17.556341859701142,
-                    "rotation": 0,
-                    "obj_type": 4
-                  },
-                  "actions": [],
-                  "states": [],
-                  "rotation": 0,
-                  "obj_type": 6
-                }
-              ],
-              "rotation": 0,
-              "obj_type": 5
-            },
-            {
-              "surface_type": 2,
-              "name": "Garden 1",
-              "visible": 1,
-              "segments": [
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 8,
-                      "y": 3.99999992921948,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 8,
-                      "y": 23.000001220703126,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 8.987792187951555,
-                      "item_type": 30,
-                      "name": "Porta",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 8,
-                      "y": 23.000001220703126,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 3.00000002378305,
-                      "y": 23.000001220703126,
+                      "x": 1,
+                      "y": 4.999999893203713,
                       "rotation": 0,
                       "obj_type": 4
                     }
@@ -726,360 +847,14 @@
                   "visible": 0,
                   "coords": [
                     {
-                      "x": 3.00000002378305,
-                      "y": 23.000001220703126,
+                      "x": 1,
+                      "y": 4.999999893203713,
                       "rotation": 0,
                       "obj_type": 4
                     },
                     {
-                      "x": 3.00000002378305,
-                      "y": 3.99999992921948,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 3.00000002378305,
-                      "y": 3.99999992921948,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 8,
-                      "y": 3.99999992921948,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [],
-                  "rotation": 0,
-                  "obj_type": 3
-                }
-              ],
-              "items": [
-                {
-                  "item_type": 13,
-                  "name": "Cespuglio",
-                  "object_id": 0,
-                  "visible": 1,
-                  "position": {
-                    "x": 20.3413392068352,
-                    "y": 4.798017693117598,
-                    "rotation": 0,
-                    "obj_type": 4
-                  },
-                  "actions": [],
-                  "states": [],
-                  "rotation": 0,
-                  "obj_type": 6
-                },
-                {
-                  "item_type": 11,
-                  "name": "Albero fusto medio",
-                  "object_id": 0,
-                  "visible": 1,
-                  "position": {
-                    "x": 6.627228279943361,
-                    "y": 5.53368953540438,
-                    "rotation": 0,
-                    "obj_type": 4
-                  },
-                  "actions": [],
-                  "states": [],
-                  "rotation": 0,
-                  "obj_type": 6
-                },
-                {
-                  "item_type": 14,
-                  "name": "Arbusto",
-                  "object_id": 0,
-                  "visible": 1,
-                  "position": {
-                    "x": 9.77629703138048,
-                    "y": 5.66936137769118,
-                    "rotation": 0,
-                    "obj_type": 4
-                  },
-                  "actions": [],
-                  "states": [],
-                  "rotation": 0,
-                  "obj_type": 6
-                },
-                {
-                  "item_type": 12,
-                  "name": "Albero fusto basso",
-                  "object_id": 0,
-                  "visible": 1,
-                  "position": {
-                    "x": 17.47316624511382,
-                    "y": 5.19738354854716,
-                    "rotation": 0,
-                    "obj_type": 4
-                  },
-                  "actions": [],
-                  "states": [],
-                  "rotation": 0,
-                  "obj_type": 6
-                }
-              ],
-              "rotation": 0,
-              "obj_type": 5
-            },
-            {
-              "surface_type": 0,
-              "name": "Garage 1",
-              "visible": 1,
-              "segments": [
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 24,
-                      "y": 16.999999944782694,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 24,
-                      "y": 23,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 24,
-                      "y": 23,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 8,
-                      "y": 23,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 3.2999600634144555,
-                      "item_type": 35,
-                      "name": "Finestra",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    },
-                    {
-                      "size": 100,
-                      "corner_distance": 11.178359211433962,
-                      "item_type": 35,
-                      "name": "Finestra",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 8,
-                      "y": 23,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 8,
-                      "y": 16.999999944782694,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 8,
-                      "y": 16.999999944782694,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 24,
-                      "y": 16.999999944782694,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 3.779095708506571,
-                      "item_type": 30,
-                      "name": "Porta",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
-                  "rotation": 0,
-                  "obj_type": 3
-                }
-              ],
-              "items": [
-                {
-                  "item_type": 20,
-                  "name": "Light 3",
-                  "object_id": 0,
-                  "visible": 1,
-                  "position": {
-                    "x": 19.64000002760866,
-                    "y": 15.64,
-                    "rotation": 0,
-                    "obj_type": 4
-                  },
-                  "actions": [],
-                  "states": [],
-                  "rotation": 0,
-                  "obj_type": 6
-                }
-              ],
-              "rotation": 0,
-              "obj_type": 5
-            },
-            {
-              "surface_type": 0,
-              "name": "Basement room 1",
-              "visible": 1,
-              "segments": [
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 23.999999389648437,
-                      "y": 8,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 23.999999389648437,
-                      "y": 17,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 23.999999389648437,
-                      "y": 17,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 16.9999996055504,
-                      "y": 17,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 16.9999996055504,
-                      "y": 17,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 16.9999996055504,
-                      "y": 8,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 3.751651464267935,
-                      "item_type": 30,
-                      "name": "Porta",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 16.9999996055504,
-                      "y": 8,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 23.999999389648437,
-                      "y": 8,
+                      "x": 15.000001220703124,
+                      "y": 4.999999893203713,
                       "rotation": 0,
                       "obj_type": 4
                     }
@@ -1092,12 +867,12 @@
               "items": [
                 {
                   "item_type": 20,
-                  "name": "Light 4",
+                  "name": "Light 5",
                   "object_id": 0,
                   "visible": 1,
                   "position": {
-                    "x": 12.14,
-                    "y": 20.13999989204902,
+                    "x": 7.700000053398144,
+                    "y": 7.700000610351562,
                     "rotation": 0,
                     "obj_type": 4
                   },
@@ -1105,196 +880,46 @@
                   "states": [],
                   "rotation": 0,
                   "obj_type": 6
+                },
+                {
+                  "item_type": 111,
+                  "name": "Lavandino",
+                  "object_id": 0,
+                  "visible": 1,
+                  "position": {
+                    "x": 6.532871287128715,
+                    "y": 14.100990099009906,
+                    "rotation": 0,
+                    "obj_type": 4
+                  },
+                  "actions": [],
+                  "states": [],
+                  "rotation": -180,
+                  "obj_type": 6
+                },
+                {
+                  "item_type": 112,
+                  "name": "Vasca da bagno",
+                  "object_id": 0,
+                  "visible": 1,
+                  "position": {
+                    "x": 7.146732673267329,
+                    "y": 2.893069306930694,
+                    "rotation": 0,
+                    "obj_type": 4
+                  },
+                  "actions": [],
+                  "states": [],
+                  "rotation": 90,
+                  "obj_type": 6
                 }
               ],
               "rotation": 0,
               "obj_type": 5
-            }
-          ],
-          "items": [],
-          "rotation": 0,
-          "obj_type": 2
-        },
-        {
-          "name": "Floor 2",
-          "level": 1,
-          "visible": 0,
-          "height": 400,
-          "buildings": [
-            {
-              "segments": [
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 8,
-                      "y": 23,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 8,
-                      "y": 4,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 7.170345256272141,
-                      "item_type": 35,
-                      "name": "Finestra",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    },
-                    {
-                      "size": 100,
-                      "corner_distance": 14.049715766508585,
-                      "item_type": 35,
-                      "name": "Finestra",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 8,
-                      "y": 4,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 24,
-                      "y": 4,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 2.8246169735850586,
-                      "item_type": 35,
-                      "name": "Finestra",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    },
-                    {
-                      "size": 100,
-                      "corner_distance": 11.636335667105087,
-                      "item_type": 35,
-                      "name": "Finestra",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 24,
-                      "y": 4,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 24,
-                      "y": 23,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 24,
-                      "y": 23,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 8,
-                      "y": 23,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 11.157487725404197,
-                      "item_type": 35,
-                      "name": "Finestra",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    },
-                    {
-                      "size": 100,
-                      "corner_distance": 3.299971311135536,
-                      "item_type": 35,
-                      "name": "Finestra",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
-                  "rotation": 0,
-                  "obj_type": 3
-                }
-              ]
-            }
-          ],
-          "surfaces": [
+            },
             {
               "surface_type": 0,
-              "name": "Bathroom 2",
+              "name": "Closet 1",
               "visible": 1,
               "segments": [
                 {
@@ -1302,14 +927,14 @@
                   "visible": 0,
                   "coords": [
                     {
-                      "x": 14,
-                      "y": 16.999999381972085,
+                      "x": 15,
+                      "y": 10.999999869696222,
                       "rotation": 0,
                       "obj_type": 4
                     },
                     {
-                      "x": 14,
-                      "y": 22.999999389648437,
+                      "x": 15,
+                      "y": 16,
                       "rotation": 0,
                       "obj_type": 4
                     }
@@ -1323,49 +948,14 @@
                   "visible": 0,
                   "coords": [
                     {
-                      "x": 14,
-                      "y": 22.999999389648437,
+                      "x": 15,
+                      "y": 16,
                       "rotation": 0,
                       "obj_type": 4
                     },
                     {
-                      "x": 7.999999996161823,
-                      "y": 22.999999389648437,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 1.1574877254041962,
-                      "item_type": 35,
-                      "name": "Finestra",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 7.999999996161823,
-                      "y": 22.999999389648437,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 7.999999996161823,
-                      "y": 16.999999381972085,
+                      "x": 1,
+                      "y": 16,
                       "rotation": 0,
                       "obj_type": 4
                     }
@@ -1379,33 +969,40 @@
                   "visible": 0,
                   "coords": [
                     {
-                      "x": 7.999999996161823,
-                      "y": 16.999999381972085,
+                      "x": 1,
+                      "y": 16,
                       "rotation": 0,
                       "obj_type": 4
                     },
                     {
-                      "x": 14,
-                      "y": 16.999999381972085,
+                      "x": 1,
+                      "y": 10.999999869696222,
                       "rotation": 0,
                       "obj_type": 4
                     }
                   ],
-                  "items": [
+                  "items": [],
+                  "rotation": 0,
+                  "obj_type": 3
+                },
+                {
+                  "segment_type": 0,
+                  "visible": 0,
+                  "coords": [
                     {
-                      "size": 100,
-                      "corner_distance": 2.49701427184739,
-                      "item_type": 30,
-                      "name": "Porta",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
+                      "x": 1,
+                      "y": 10.999999869696222,
                       "rotation": 0,
-                      "obj_type": 6
+                      "obj_type": 4
+                    },
+                    {
+                      "x": 15,
+                      "y": 10.999999869696222,
+                      "rotation": 0,
+                      "obj_type": 4
                     }
                   ],
+                  "items": [],
                   "rotation": 0,
                   "obj_type": 3
                 }
@@ -1417,8 +1014,8 @@
                   "object_id": 0,
                   "visible": 1,
                   "position": {
-                    "x": 19.640000003838182,
-                    "y": 10.640000001919079,
+                    "x": 13.20000006515189,
+                    "y": 7.7,
                     "rotation": 0,
                     "obj_type": 4
                   },
@@ -1428,726 +1025,6 @@
                   "obj_type": 6
                 }
               ],
-              "rotation": 0,
-              "obj_type": 5
-            },
-            {
-              "surface_type": 0,
-              "name": "Gym 1",
-              "visible": 1,
-              "segments": [
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 24.000000610351563,
-                      "y": 16.999999730931613,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 24.000000610351563,
-                      "y": 22.999999389648437,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 24.000000610351563,
-                      "y": 22.999999389648437,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 14,
-                      "y": 22.999999389648437,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 3.2999713111355344,
-                      "item_type": 35,
-                      "name": "Finestra",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 14,
-                      "y": 22.999999389648437,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 14,
-                      "y": 16.999999730931613,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 14,
-                      "y": 16.999999730931613,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 24.000000610351563,
-                      "y": 16.999999730931613,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 1.2291178006985772,
-                      "item_type": 30,
-                      "name": "Porta",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
-                  "rotation": 0,
-                  "obj_type": 3
-                }
-              ],
-              "items": [
-                {
-                  "item_type": 20,
-                  "name": "Light 7",
-                  "object_id": 0,
-                  "visible": 1,
-                  "position": {
-                    "x": 19.63999982935842,
-                    "y": 18.640000305175782,
-                    "rotation": 0,
-                    "obj_type": 4
-                  },
-                  "actions": [],
-                  "states": [],
-                  "rotation": 0,
-                  "obj_type": 6
-                }
-              ],
-              "rotation": 0,
-              "obj_type": 5
-            },
-            {
-              "surface_type": 0,
-              "name": "Corridor 1",
-              "visible": 1,
-              "segments": [
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 20,
-                      "y": 12.999999923080559,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 20,
-                      "y": 16.99999969482422,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 20,
-                      "y": 16.99999969482422,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 8,
-                      "y": 16.99999969482422,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 3.770882199301452,
-                      "item_type": 30,
-                      "name": "Porta",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    },
-                    {
-                      "size": 100,
-                      "corner_distance": 8.502985731990863,
-                      "item_type": 30,
-                      "name": "Porta",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 8,
-                      "y": 16.99999969482422,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 8,
-                      "y": 12.999999923080559,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 1.1703452562721406,
-                      "item_type": 35,
-                      "name": "Finestra",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 8,
-                      "y": 12.999999923080559,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 20,
-                      "y": 12.999999923080559,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 3.870448913026107,
-                      "item_type": 30,
-                      "name": "Porta",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    },
-                    {
-                      "size": 100,
-                      "corner_distance": 10.183173791845714,
-                      "item_type": 30,
-                      "name": "Porta",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
-                  "rotation": 0,
-                  "obj_type": 3
-                }
-              ],
-              "items": [
-                {
-                  "item_type": 21,
-                  "name": "Thermostat 3",
-                  "object_id": 0,
-                  "visible": 1,
-                  "position": {
-                    "x": 14.427690033775546,
-                    "y": 9.351660200122526,
-                    "rotation": 0,
-                    "obj_type": 4
-                  },
-                  "actions": [],
-                  "states": [],
-                  "rotation": 0,
-                  "obj_type": 6
-                },
-                {
-                  "item_type": 20,
-                  "name": "Light 10",
-                  "object_id": 0,
-                  "visible": 1,
-                  "position": {
-                    "x": 14.585953228658953,
-                    "y": 17.87506849801564,
-                    "rotation": 0,
-                    "obj_type": 4
-                  },
-                  "actions": [],
-                  "states": [],
-                  "rotation": 0,
-                  "obj_type": 6
-                }
-              ],
-              "rotation": 0,
-              "obj_type": 5
-            },
-            {
-              "surface_type": 0,
-              "name": "Bedroom 1",
-              "visible": 1,
-              "segments": [
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 16,
-                      "y": 3.999999791525097,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 16,
-                      "y": 13,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 16,
-                      "y": 13,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 8.000000011652618,
-                      "y": 13,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 3.129551086973894,
-                      "item_type": 30,
-                      "name": "Porta",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 8.000000011652618,
-                      "y": 13,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 8.000000011652618,
-                      "y": 3.999999791525097,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 4.0497157665085854,
-                      "item_type": 35,
-                      "name": "Finestra",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 8.000000011652618,
-                      "y": 3.999999791525097,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 16,
-                      "y": 3.999999791525097,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 2.824616973585058,
-                      "item_type": 35,
-                      "name": "Finestra",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
-                  "rotation": 0,
-                  "obj_type": 3
-                }
-              ],
-              "items": [
-                {
-                  "item_type": 20,
-                  "name": "Light 8",
-                  "object_id": 0,
-                  "visible": 1,
-                  "position": {
-                    "x": 8.14000010423746,
-                    "y": 11.6399999941737,
-                    "rotation": 0,
-                    "obj_type": 4
-                  },
-                  "actions": [],
-                  "states": [],
-                  "rotation": 0,
-                  "obj_type": 6
-                }
-              ],
-              "rotation": 0,
-              "obj_type": 5
-            },
-            {
-              "surface_type": 0,
-              "name": "Bedroom 2",
-              "visible": 1,
-              "segments": [
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 23.999999389648437,
-                      "y": 3.9999999329447746,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 23.999999389648437,
-                      "y": 13,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 23.999999389648437,
-                      "y": 13,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 15.999999825279028,
-                      "y": 13,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 4.816826208154286,
-                      "item_type": 30,
-                      "name": "Porta",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 15.999999825279028,
-                      "y": 13,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 15.999999825279028,
-                      "y": 3.9999999329447746,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 15.999999825279028,
-                      "y": 3.9999999329447746,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 23.999999389648437,
-                      "y": 3.9999999329447746,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [
-                    {
-                      "size": 100,
-                      "corner_distance": 3.6363356671050884,
-                      "item_type": 35,
-                      "name": "Finestra",
-                      "object_id": 0,
-                      "visible": 1,
-                      "position": null,
-                      "actions": [],
-                      "states": [],
-                      "rotation": 0,
-                      "obj_type": 6
-                    }
-                  ],
-                  "rotation": 0,
-                  "obj_type": 3
-                }
-              ],
-              "items": [
-                {
-                  "item_type": 20,
-                  "name": "Light 9",
-                  "object_id": 0,
-                  "visible": 1,
-                  "position": {
-                    "x": 8.14000003352762,
-                    "y": 19.6399997821847,
-                    "rotation": 0,
-                    "obj_type": 4
-                  },
-                  "actions": [],
-                  "states": [],
-                  "rotation": 0,
-                  "obj_type": 6
-                }
-              ],
-              "rotation": 0,
-              "obj_type": 5
-            },
-            {
-              "surface_type": 10,
-              "name": "Scala Singola",
-              "visible": 1,
-              "segments": [
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 24,
-                      "y": 12.999999970197678,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 24,
-                      "y": 17,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 24,
-                      "y": 17,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 19.99999998509884,
-                      "y": 17,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 19.99999998509884,
-                      "y": 17,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 19.99999998509884,
-                      "y": 12.999999970197678,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [],
-                  "rotation": 0,
-                  "obj_type": 3
-                },
-                {
-                  "segment_type": 0,
-                  "visible": 0,
-                  "coords": [
-                    {
-                      "x": 19.99999998509884,
-                      "y": 12.999999970197678,
-                      "rotation": 0,
-                      "obj_type": 4
-                    },
-                    {
-                      "x": 24,
-                      "y": 12.999999970197678,
-                      "rotation": 0,
-                      "obj_type": 4
-                    }
-                  ],
-                  "items": [],
-                  "rotation": 0,
-                  "obj_type": 3
-                }
-              ],
-              "items": [],
               "rotation": 0,
               "obj_type": 5
             }
